@@ -1,25 +1,28 @@
 <!-- Waving Header with Twinkling Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Rohith!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Rohith!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
 <!-- Animated Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+%2F+ML+Engineering+Student;Building+Intelligent+Applications;NLP+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+%2F+ML+Engineering+Student;Building+Intelligent+Applications;NLP+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/rohithsing"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/r0h1th_s1n9h"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/r0h1th_s1n9h"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rohitsingh767194@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="35" /> About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
@@ -32,41 +35,39 @@
       <p>📫 How to reach me: <a href="mailto:rohitsingh767194@gmail.com">rohitsingh767194@gmail.com</a></p>
     </td>
     <td width="35%" align="center">
-      <!-- Animated Technologist Emoji -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="120" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Data" width="150" />
       <br><br>
-      <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rohithsing&icon=0&color=0" alt="Profile Views"></a>
+      <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rohithsing&icon=5&color=1" alt="Profile Views" /></a>
     </td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
-<!-- Skillicons have an animated bounce hover effect natively! -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,react,html,css,js,ts,git,github,postgres,mysql,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,django,react,html,css,js,ts,git,github,postgres,mysql,linux&perline=12" alt="Skills" />
   </a>
 </p>
 
 ### 🔬 Domain Knowledge & Data Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gen%20AI-teal?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square" alt="ML" />
+  <img src="https://img.shields.io/badge/Data%20Science-orange?style=flat-square" alt="DS" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-green?style=flat-square" alt="DL" />
+  <img src="https://img.shields.io/badge/NLP-purple?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-red?style=flat-square" alt="CV" />
+  <img src="https://img.shields.io/badge/Gen%20AI-teal?style=flat-square" alt="GenAI" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> 
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit" /> 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="35" /> Experience & Research
+## 🔭 Experience & Research
 
 > ✨ **Research Paper Author** — *IEEE CCIC 2026 Conference*  
 > - Presented a paper on **"Automated Personality Assessment Using XGBoost"**.
@@ -79,7 +80,7 @@
 > 🤝 **Volunteer** — *Buildverse.AI Hackathon (AI Club, KGRCET)*  
 > - Handled logistics, participant management, and ensured the smooth execution of a major college-level AI hackathon.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <table width="100%">
@@ -103,12 +104,11 @@
   </table>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Chart" width="35" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Aesthetic synthwave theme for creative look -->
   <img src="https://github-readme-stats.vercel.app/api?username=rohithsing&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="rohithsing's GitHub stats" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohithsing&theme=synthwave&hide_border=true" alt="rohithsing's Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsing&theme=synthwave&hide_border=true" alt="rohithsing's Streak" height="150" />
 </div>
 
 <br>
@@ -121,5 +121,5 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
 </div>
