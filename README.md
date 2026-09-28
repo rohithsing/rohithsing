@@ -267,10 +267,12 @@ An AI-native LMS with an **NLP-driven chatbot mentor**, **Diffusion-Model** cont
 ## 📊 Commit Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithsing&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsing&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rohithsing&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rohithsing&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithsing&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithsing&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  </a>
 </div>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
