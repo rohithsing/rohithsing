@@ -267,7 +267,6 @@ An AI-native LMS with an **NLP-driven chatbot mentor**, **Diffusion-Model** cont
 ## 📊 Commit Telemetry
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rohithsing&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=rohithsing&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
   <br/><br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
